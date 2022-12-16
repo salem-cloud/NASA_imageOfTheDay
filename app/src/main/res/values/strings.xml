@@ -1,0 +1,49 @@
+<resources>
+    <string name="nameOfTheApp">Salem\'s NASA Image Of The Day</string>
+    <string name="headingMain">Heading: </string>
+    <string name="alreadyFav">Image is already a favorite</string>
+    <string name="deetsURL" translatable="false">url deets</string>
+    <string name="hide">Hide</string>
+    <string name="popupDel">Are you sure you want to delete this?</string>
+    <string name="urlMain">link: </string>
+    <string name="urlMainContent" translatable="false"></string>
+    <string name="hdUrlMain">Link: </string>
+    <string name="hdUrlMainContent" translatable="false"></string>
+    <string name="dateMain">Date Set: </string>
+    <string name="dateMainContent" translatable="false"></string>
+    <string name="datePickerBtn">Click to Fetch Date</string>
+    <string name="fetchDateContent">Retrieve Image</string>
+    <string name="titleMain" translatable="false"></string>
+    <string name="headingExplanation">Description: </string>
+    <string name="explanationMainContent" translatable="false"></string>
+    <string name="dateSelectedText">Current Date:</string>
+    <string name="FavThisImage">Add to Favorites</string>
+    <string name="savedImg">Image added to Favorites</string>
+    <string name="titleApp">NASA Image of the Day</string>
+    <string name="menuHome">Home</string>
+    <string name="abtHow">About page.</string>
+    <string name="unameInput">enter username</string>
+    <string name="saveUname">Save Username</string>
+    <string name="titleMenu">Welcome!</string>
+    <string name="titleFavs">Favourites</string>
+    <string name="titleAcc">Account</string>
+    <string name="titleAbt">About</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hint">Please set username!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="btnHelp">Help</string>
+    <string name="menuFavs">Favourites</string>
+    <string name="menuUser">User Info</string>
+    <string name="menuInfo">About</string>
+    <string name="useHow">Click me to know how to use this page!</string>
+    <string name="mainHow">1) Use the \'Click to Fetch Date\' button to select a date. \n2) Push \'Retrieve Image\' to get the image. \n\nClick the \'Add to Favorites\' button to add it to your favourites.</string>
+    <string name="favsHow">Click on any items to get more details.</string>
+    <string name="accHow">Set your username.</string>
+    <string name="about_space">Project by Salem Hanna\nStudent ID: 040846484</string>
+    <string name="savedUname">Username saved!</string>
+    <string name="welcome">Welcome,</string>
+
+
+</resources>

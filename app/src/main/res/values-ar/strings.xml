@@ -1,0 +1,49 @@
+<resources>
+    <string name="nameOfTheApp">صورة اليوم لوكالة ناسا سالم</string>
+    <string name="headingMain">عنوان: </string>
+    <string name="alreadyFav">الصورة مفضلة بالفعل</string>
+    <string name="deetsURL" translatable="false">عنوان url deets</string>
+    <string name="hide">يخفي</string>
+    <string name="popupDel">هل أنت متأكد أنك تريد حذف هذا؟</string>
+    <string name="urlMain">حلقة الوصل: </string>
+    <string name="urlMainContent" translatable="false"></string>
+    <string name="hdUrlMain">حلقة الوصل: </string>
+    <string name="hdUrlMainContent" translatable="false"></string>
+    <string name="dateMain">تعيين التاريخ: </string>
+    <string name="dateMainContent" translatable="false"></string>
+    <string name="datePickerBtn">انقر لجلب التاريخ</string>
+    <string name="fetchDateContent">استرجاع الصورة</string>
+    <string name="titleMain" translatable="false"></string>
+    <string name="headingExplanation">وصف: </string>
+    <string name="explanationMainContent" translatable="false"></string>
+    <string name="dateSelectedText">التاريخ الحالي:</string>
+    <string name="FavThisImage">اضافة الى المفضلة</string>
+    <string name="savedImg">تمت إضافة الصورة إلى المفضلة</string>
+    <string name="titleApp">ناسا صورة اليوم</string>
+    <string name="menuHome">مسكن</string>
+    <string name="abtHow">حول الصفحة.</string>
+    <string name="unameInput">ادخل اسم المستخدم</string>
+    <string name="saveUname">حفظ اسم المستخدم</string>
+    <string name="titleMenu">أهلا وسهلا!</string>
+    <string name="titleFavs">المفضلة</string>
+    <string name="titleAcc">الحساب</string>
+    <string name="titleAbt">حول</string>
+    <string name="yes">نعم</string>
+    <string name="no">رقم</string>
+    <string name="hint">الرجاء تعيين اسم المستخدم!</string>
+    <string name="open">فتح</string>
+    <string name="close">قريب</string>
+    <string name="btnHelp">مساعدة</string>
+    <string name="menuFavs">المفضلة</string>
+    <string name="menuUser">معلومات المستخدم</string>
+    <string name="menuInfo">حول</string>
+    <string name="useHow">انقر فوقي لمعرفة كيفية استخدام هذه الصفحة!</string>
+    <string name="mainHow">1) استخدم الزر \ "انقر لجلب التاريخ \" لتحديد تاريخ. \n 2) اضغط على "استرداد الصورة" للحصول على الصورة. \n\ n انقر فوق الزر \n "إضافة إلى المفضلة \n" لإضافته إلى المفضلة.</string>
+    <string name="favsHow">انقر فوق أي عناصر للحصول على مزيد من التفاصيل.</string>
+    <string name="accHow">قم بتعيين اسم المستخدم الخاص بك.</string>
+    <string name="about_space">مشروع سالم حنا</string>
+    <string name="savedUname">تم حفظ اسم المستخدم!!</string>
+    <string name="welcome">أهلا وسهلا,</string>
+
+
+</resources>

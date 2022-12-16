@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ButtonHelp"
+        android:icon="@drawable/howto"
+        android:orderInCategory="500"
+        app:showAsAction="always"
+        android:title="@string/btnHelp"
+
+        />
+    <item
+        android:id="@+id/BtnHelpHome"
+        android:icon="@drawable/home"
+
+        app:showAsAction="never"
+        android:title="@string/menuHome"
+        android:orderInCategory="550"
+        />
+    <item
+        android:id="@+id/BtnHelpFavs"
+        android:title="@string/menuFavs"
+        android:orderInCategory="560"
+        android:icon="@drawable/favs"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/BtnHelpAcc"
+        android:orderInCategory="570"
+        app:showAsAction="never"
+        android:icon="@drawable/profile"
+        android:title="@string/menuUser"
+
+        />
+    <item
+        android:id="@+id/BtnHelpInfo"
+
+        android:orderInCategory="580"
+        android:icon="@drawable/info"
+        android:title="@string/menuInfo"
+        app:showAsAction="never"
+        />
+
+</menu>

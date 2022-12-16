@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AccountUserActivity"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbar"
+        app:title="@string/titleAbt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/layout_drwr"
+
+        tools:openDrawer="start"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            >
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:id="@+id/all_thank"
+                android:layout_width="match_parent"
+
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+
+                >
+                <ImageView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/home"
+                    />
+                <TextView
+                    android:id="@+id/about_space"
+
+                    android:text="@string/about_space"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:autoLink="web"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/view_navigation"
+            android:layout_width="wrap_content"
+            android:layout_gravity="start"
+            android:fitsSystemWindows="true"
+            android:layout_height="match_parent"
+
+            app:headerLayout="@layout/toolbar_layout"
+            app:menu="@menu/nav_menu"
+            />
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</LinearLayout>
